@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReadabilityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-20T08:44:50" hostname="fady-xps" time="0.196">
+  <properties/>
+  <testcase name="start" classname="ReadabilityTest" time="0.196"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Words: 108
+Sentences: 6
+Characters: 580
+The score is: 12.86
+?[1;31m
+Start test 2?[0m
+Words: 100
+Sentences: 10
+Characters: 476
+The score is: 5.98
+?[1;31m
+Start test 3?[0m
+Words: 180
+Sentences: 13
+Characters: 982
+The score is: 11.18
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
